@@ -4,7 +4,7 @@
 #
 Name     : compat-libhandy-0.0
 Version  : 0.0.13
-Release  : 8
+Release  : 9
 URL      : https://source.puri.sm/Librem5/libhandy/-/archive/v0.0.13/libhandy-v0.0.13.tar.gz
 Source0  : https://source.puri.sm/Librem5/libhandy/-/archive/v0.0.13/libhandy-v0.0.13.tar.gz
 Summary  : A library full of GTK widgets for mobile phones
